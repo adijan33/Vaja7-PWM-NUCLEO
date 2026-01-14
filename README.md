@@ -6,6 +6,10 @@ Pinout slika:
 
 <img width="821" height="624" alt="image" src="https://github.com/user-attachments/assets/f42285b6-2e2c-4e59-8b6a-cd24673ec110" />
 
+okno od TIM1 configuration-parameter settings 
+
+<img width="798" height="766" alt="image" src="https://github.com/user-attachments/assets/77e1331b-13e3-434a-b4b6-b62c02a3266d" />
+
 b) Aktivirali smo pin PA8, pri katerem se ob izbiri prikaže oznaka TIM1_CH1, kar pomeni, da je pin povezan s prvim kanalom časovnika TIM1.
 
 d) Nastavljena vrednost Prescalerja je 16, s čimer se zmanjša vhodna frekvenca časovnika.
