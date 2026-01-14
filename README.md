@@ -1,6 +1,9 @@
 # Vaja7-PWM-NUCLEO
 
+
+
 Pinout slika:
+
 <img width="821" height="624" alt="image" src="https://github.com/user-attachments/assets/f42285b6-2e2c-4e59-8b6a-cd24673ec110" />
 
 b) Aktivirali smo pin PA8, pri katerem se ob izbiri prikaže oznaka TIM1_CH1, kar pomeni, da je pin povezan s prvim kanalom časovnika TIM1.
