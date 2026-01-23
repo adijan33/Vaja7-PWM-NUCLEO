@@ -10,6 +10,21 @@ okno od TIM1 configuration-parameter settings
 
 <img width="798" height="766" alt="image" src="https://github.com/user-attachments/assets/77e1331b-13e3-434a-b4b6-b62c02a3266d" />
 
+Slika vezja:
+<img width="341" height="492" alt="image" src="https://github.com/user-attachments/assets/4cb179d3-6633-4c15-a11f-ed9568abe3ff" />
+
+Slika osciloskopa pri 25%
+
+<img width="354" height="260" alt="image" src="https://github.com/user-attachments/assets/5e075449-6a26-46f8-8a95-4f7a0fdc6951" />
+
+
+Slika osciloskopa pri 50%
+
+<img width="353" height="360" alt="image" src="https://github.com/user-attachments/assets/f3ba54d7-3200-4450-a005-f496b51b160d" />
+
+
+
+
 b) Aktivirali smo pin PA8, pri katerem se ob izbiri prikaže oznaka TIM1_CH1, kar pomeni, da je pin povezan s prvim kanalom časovnika TIM1.
 
 d) Nastavljena vrednost Prescalerja je 16, s čimer se zmanjša vhodna frekvenca časovnika.
