@@ -11,6 +11,8 @@ okno od TIM1 configuration-parameter settings
 <img width="798" height="766" alt="image" src="https://github.com/user-attachments/assets/77e1331b-13e3-434a-b4b6-b62c02a3266d" />
 
 Slika vezja:
+
+
 <img width="341" height="492" alt="image" src="https://github.com/user-attachments/assets/4cb179d3-6633-4c15-a11f-ed9568abe3ff" />
 
 Slika osciloskopa pri 25%
